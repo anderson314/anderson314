@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson314&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anderson314/github-readme-stats)
 
-----
+
 
 ![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson314&show_icons=true)
 
